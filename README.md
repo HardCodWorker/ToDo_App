@@ -1,9 +1,10 @@
-# React TypeScript Starter Pack
+Hello! This is my Todo App Project
+To see the working version please follow ->
 
-To use this template click `Use this template`
+In this project I used: 
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+1. HTML
+2. SASS(SCSS)
+3. JS
+4. REACT
+5. BULMA
